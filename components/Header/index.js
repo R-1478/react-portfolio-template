@@ -98,11 +98,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     Home
                   </Button>
                   {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
+                    <Button onClick={() =>  window.open("https://online.fliphtml5.com/hzvmp/sklw/index.html")}>Cover Letter</Button>
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => router.push("/resume")}
+                      onClick={() => window.open("https://coral-lyndsey-43.tiiny.site")}
                       classes="first:ml-1"
                     >
                       Resume
@@ -110,7 +110,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() => window.open("mailto:evansthitai6@gmail.com")}
                   >
                     Contact
                   </Button>
@@ -136,18 +136,18 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={handleWorkScroll}>Work</Button>
             <Button onClick={handleAboutScroll}>About</Button>
             {showBlog && (
-              <Button onClick={() => router.push("/blog")}>Blog</Button>
+              <Button onClick={() => window.open("https://online.fliphtml5.com/hzvmp/sklw/index.html#p=1")}>Cover Letter</Button>
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() => window.open("https://coral-lyndsey-43.tiiny.site")}
                 classes="first:ml-1"
               >
                 Resume
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:evansthitai6@gmail.com")}>
               Contact
             </Button>
             {mounted && theme && data.darkMode && (
@@ -165,18 +165,18 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
           <div className="flex">
             <Button onClick={() => router.push("/")}>Home</Button>
             {showBlog && (
-              <Button onClick={() => router.push("/blog")}>Blog</Button>
+              <Button onClick={() => window.open("https://online.fliphtml5.com/hzvmp/sklw/index.html#p=1")}>Cover Letter</Button>
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() => window.open("https://coral-lyndsey-43.tiiny.site")}
                 classes="first:ml-1"
               >
                 Resume
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:evansthitai6@gmail.com")}>
               Contact
             </Button>
 
