@@ -71,21 +71,23 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 <div className="grid grid-cols-1">
                   <Button onClick={handleWorkScroll}>Work</Button>
                   <Button onClick={handleAboutScroll}>About</Button>
-                  {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
-                  )}
+                  {showBlog }
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("mailto:hello@chetanverma.com")
+                        window.open("https://coral-lyndsey-43.tiiny.site", "_blank")
                       }
                     >
                       Resume
                     </Button>
                   )}
-
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() => window.open("https://online.fliphtml5.com/hzvmp/sklw/index.html")}
+                  >
+                    Cover Letter
+                  </Button>
+                  <Button
+                    onClick={() => window.open("mailto:evansthitai6@gmail.com")}
                   >
                     Contact
                   </Button>
