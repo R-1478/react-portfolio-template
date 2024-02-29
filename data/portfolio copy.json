@@ -2,9 +2,9 @@
 ,{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/evans-thitai-b755362b2/"},
 {"id":"3","title":"Twitter","link":"https://twitter.com/"},
 {"id":"5","title":"Email","link":"evansthitai6@gmail.com"}],
-"projects":[{"id":"1","title":"Book Haven","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"bookhavenproject.netlify.app/"},
-{"id":"2","title":"Bot Battlr","description":"Front-end Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"r-1478.github.io/Bot-Battlr/"},
-{"id":"3","title":"HIgh Flights","description":"CLI","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"https://github.com/R-1478/High-Flights"}
+"projects":[{"id":"1","title":"Book Haven","description":"Web Design","imageSrc":"https://ibb.co/MgwDM7T","url":"bookhavenproject.netlify.app/"},
+{"id":"2","title":"Bot Battlr","description":"Front-end Web Development","imageSrc":" https://ibb.co/zN5FKQ0","url":"r-1478.github.io/Bot-Battlr/"},
+{"id":"3","title":"HIgh Flights","description":"CLI","imageSrc":"https://ibb.co/XCTztsD","url":"https://github.com/R-1478/High-Flights"}
 ],
 "services":[{"id":"1","title":"Art Direction","description":"I help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},
 {"id":"2","title":"Branding","description":"I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},
