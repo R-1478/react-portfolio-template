@@ -3,7 +3,7 @@
 {"id":"3","title":"Twitter","link":"https://twitter.com/"},
 {"id":"5","title":"Email","link":"evansthitai6@gmail.com"}],
 "projects":[{"id":"1","title":"Book Haven","description":"Web Design","imageSrc":"https://i.ibb.co/PrXZwgp/abundant-collection-antique-books-wooden-shelves-generated-by-ai.jpg","url":"https://bookhavenproject.netlify.app"},
-{"id":"2","title":"Bot Battlr","description":"Front-end Web Development","imageSrc":" https://i.ibb.co/QXcksp1/robot-pictures-4iy8q9oetljgo3z9.webp","url":"https://R-1478.github.io/Bot-Battlr/"},
+{"id":"2","title":"shop Mate","description":"A simple shopping app","imageSrc":" https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://shoppmate.netlify.app"},
 {"id":"3","title":"HIgh Flights","description":"CLI","imageSrc":"https://i.ibb.co/MCLR7Vf/4k-plane-background.png","url":"https://github.com/R-1478/High-Flights"},
 {"id":"4","title":"Pizzas","description":"Full-Stack","imageSrc":"https://i.ibb.co/HHvjZ7H/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai.jpg","url":"https://github.com/R-1478/Pizzas"}
 ],
