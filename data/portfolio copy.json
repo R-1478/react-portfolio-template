@@ -2,7 +2,7 @@
 ,{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/evans-thitai-b755362b2/"},
 {"id":"3","title":"Twitter","link":"https://twitter.com/"},
 {"id":"5","title":"Email","link":"evansthitai6@gmail.com"}],
-"projects":[{"id":"1","title":"Book Haven","description":"Web Design","imageSrc":"https://i.ibb.co/PrXZwgp/abundant-collection-antique-books-wooden-shelves-generated-by-ai.jpg","url":"https://bookhavenproject.netlify.app"},
+"projects":[{"id":"1","title":"Book Haven","description":"Web Design","imageSrc":"https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://bookhavenproject.netlify.app"},
 {"id":"2","title":"shop Mate","description":"A simple shopping app","imageSrc":" https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://shoppmate.netlify.app"},
 {"id":"3","title":"Pemire motors","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://pemire.co.ke"},
 {"id":"4","title":"News","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/2872418/pexels-photo-2872418.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://news-app-psi-woad.vercel.app/"}
