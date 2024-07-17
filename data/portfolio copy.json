@@ -1,11 +1,11 @@
-{"name":"Evans","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Evans Thitai - curious","headerTaglineThree":"designer and developer","headerTaglineFour":" based in Nairobi,Kenya.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/R-1478"}
+{"name":"Evans","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Evans Thitai - software","headerTaglineThree":"designer and developer","headerTaglineFour":" based in Nairobi,Kenya.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/R-1478"}
 ,{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/evans-thitai-b755362b2/"},
 {"id":"3","title":"Twitter","link":"https://twitter.com/"},
 {"id":"5","title":"Email","link":"evansthitai6@gmail.com"}],
 "projects":[{"id":"1","title":"Book Haven","description":"Web Design","imageSrc":"https://i.ibb.co/PrXZwgp/abundant-collection-antique-books-wooden-shelves-generated-by-ai.jpg","url":"https://bookhavenproject.netlify.app"},
 {"id":"2","title":"shop Mate","description":"A simple shopping app","imageSrc":" https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://shoppmate.netlify.app"},
-{"id":"3","title":"Pemire motors","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://front-fwt6.onrender.com"},
-{"id":"4","title":"Pizzas","description":"Full-Stack","imageSrc":"https://i.ibb.co/HHvjZ7H/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai.jpg","url":"https://github.com/R-1478/Pizzas"}
+{"id":"3","title":"Pemire motors","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://pemire.co.ke"},
+{"id":"4","title":"News","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/2872418/pexels-photo-2872418.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://news-app-psi-woad.vercel.app/"}
 ],
 "services":[{"id":"1","title":"Art Direction","description":"I help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},
 {"id":"2","title":"Branding","description":"I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},
