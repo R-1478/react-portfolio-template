@@ -1,11 +1,13 @@
 {"name":"Evans","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Evans Thitai - software","headerTaglineThree":"designer and developer","headerTaglineFour":" based in Nairobi,Kenya.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/R-1478"}
-,{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/evans-thitai-b755362b2/"},
+,{"id":"2","title":"LinkedIn","link":"https://www.linkedin.comin/evans-thitai-b755362b2/"},
 {"id":"3","title":"Twitter","link":"https://twitter.com/"},
 {"id":"5","title":"Email","link":"evansthitai6@gmail.com"}],
-"projects":[{"id":"1","title":"Book Haven","description":"Web Design","imageSrc":"https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://bookhavenproject.netlify.app"},
-{"id":"2","title":"shop Mate","description":"A simple shopping app","imageSrc":" https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://shoppmate.netlify.app"},
-{"id":"3","title":"Pemire motors","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://www.pemire.co.ke"},
-{"id":"4","title":"Trilliao","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://trilliao.com/"}
+"projects":[
+
+{"id":"1","title":"shop Mate","description":"A simple shopping app","imageSrc":" https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://treats4trojans.com/"},
+{"id":"2","title":"Pemire motors","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://www.pemire.co.ke"},
+{"id":"3","title":"Trilliao","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://trilliao.com/"},
+{"id":"4","title":"Book Haven","description":"Web Design","imageSrc":"https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://bookhavenproject.netlify.app"}
 ],
 "services":[{"id":"1","title":"Art Direction","description":"I help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},
 {"id":"2","title":"Branding","description":"I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},
