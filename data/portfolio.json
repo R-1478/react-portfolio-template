@@ -4,8 +4,8 @@
 {"id":"5","title":"Email","link":"evansthitai6@gmail.com"}],
 "projects":[
 
-{"id":"1","title":"shop Mate","description":"A simple shopping app","imageSrc":" https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://treats4trojans.com/"},
-{"id":"2","title":"Pemire motors","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://www.pemire.co.ke"},
+{"id":"1","title":"Acme","description":"A fully functional ecommerce website","imageSrc":" https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://next-enterprise-commerce.vercel.app/"},
+{"id":"2","title":"Next.js Enterprise","description":"A modern classic landing page","imageSrc":"https://images.pexels.com/photos/4207707/pexels-photo-4207707.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://next-enterprise.vercel.app/"},
 {"id":"3","title":"Trilliao","description":"Full-Stack","imageSrc":"https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://trilliao.com/"},
 {"id":"4","title":"Book Haven","description":"Web Design","imageSrc":"https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=600","url":"https://bookhavenproject.netlify.app"}
 ],
@@ -13,7 +13,7 @@
 {"id":"2","title":"Branding","description":"I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},
 {"id":"3","title":"Web Development","description":"I build and optimize your online presence through incorporating riveting functionality for your user.Your Website is the digital entry point into your business and a powerful revenue channel."},
 {"id":"4","title":"3D Design","description":"I combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],
-"aboutpara":"In Moringa School, I have been able to acquire this set of skills needed to develop a functional website.I have learnt a couple of frameworks and developed many projects listed in my gitHub account.",
+"aboutpara":"I have been able  to develop  functional websites.",
 "resume":{"tagline":"👋  I'm a software engineer.","description":"I have delivered world-class websites and applications to a couple of clients. Well-versed with React, Javascript, and most of the Web frameworks.",
 "experiences":[{"id":"1","dates":"January 2024 - Present","type":"Contract","position":"Full Stack engineer at Riveria trading Solutions","bullets":"Bullet One, Bullet Two"}],
-"languages":["Javascript","HTML5","CSS","Python"],"frameworks":["React","Flask","Django", "Tailwind"],"others":["Figma","AWS"]}}
+"languages":["Javascript","HTML5","CSS","Python"],"frameworks":["React","Flask","Django", "Typescript", "Tailwind"],"others":["Figma","AWS"]}}
