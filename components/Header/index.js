@@ -134,7 +134,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => window.open("https://coral-lyndsey-43.tiiny.site")}
+                onClick={() => window.open("https://evans.tiiny.site/")}
                 classes="first:ml-1"
               >
                 Resume
@@ -163,7 +163,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => window.open("https://coral-lyndsey-43.tiiny.site")}
+                onClick={() => window.open("https://evans.tiiny.site")}
                 classes="first:ml-1"
               >
                 Resume
