@@ -30,7 +30,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 {name}.
               </h1>
 
-              <div className="flex items-center">
+              <div className="flex items-center text-red-500">
                 {data.darkMode && (
                   <Button
                     onClick={() =>
@@ -75,17 +75,13 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("https://coral-lyndsey-43.tiiny.site", "_blank")
+                        window.open("https://evans.tiiny.site", "_blank")
                       }
                     >
                       Resume
                     </Button>
                   )}
-                  <Button
-                    onClick={() => window.open("https://online.fliphtml5.com/hzvmp/sklw/index.html")}
-                  >
-                    Cover Letter
-                  </Button>
+                 
                   <Button
                     onClick={() => window.open("mailto:evansthitai6@gmail.com")}
                   >
@@ -97,12 +93,10 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button onClick={() => router.push("/")} classes="first:ml-1">
                     Home
                   </Button>
-                  {showBlog && (
-                    <Button onClick={() =>  window.open("https://online.fliphtml5.com/hzvmp/sklw/index.html")}>Cover Letter</Button>
-                  )}
+                  
                   {showResume && (
                     <Button
-                      onClick={() => window.open("https://coral-lyndsey-43.tiiny.site")}
+                      onClick={() => window.open("https://evans.tiiny.site/")}
                       classes="first:ml-1"
                     >
                       Resume
